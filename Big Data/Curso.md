@@ -1,1 +1,1 @@
-  Curso 
+[introducao_a_ciencia_de_dados_conceitos_e_ferramentas_turma_ago2026_certificado (1).pdf](https://github.com/user-attachments/files/31243373/introducao_a_ciencia_de_dados_conceitos_e_ferramentas_turma_ago2026_certificado.1.pdf)
