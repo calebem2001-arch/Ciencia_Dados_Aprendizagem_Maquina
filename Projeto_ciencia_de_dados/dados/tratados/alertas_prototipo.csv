@@ -1,0 +1,13 @@
+item_id,nome,unidade,estoque_final,demanda_media_3m,mes_previsto,alerta_falta,modelo
+I01,Arroz,kg,0.000000,55.953333,2026-01,1,Regra estoque
+I02,Feijao,kg,0.000000,46.120000,2026-01,1,Regra estoque
+I03,Macarrao,kg,0.000000,27.223333,2026-01,1,Regra estoque
+I04,Proteina,kg,0.000000,76.236667,2026-01,1,Regra estoque
+I05,Legumes,kg,0.000000,61.103333,2026-01,1,Regra estoque
+I06,Oleo,litro,0.000000,5.770000,2026-01,1,Regra estoque
+I07,Embalagem,unidade,0.000000,760.333333,2026-01,1,Regra estoque
+I08,Talher,unidade,0.000000,774.333333,2026-01,1,Regra estoque
+I09,Agua,litro,0.000000,360.030000,2026-01,1,Regra estoque
+I10,Camiseta,unidade,0.000000,91.000000,2026-01,1,Regra estoque
+I11,Agasalho,unidade,38.000000,34.000000,2026-01,0,Regra estoque
+I12,Brinquedo,unidade,0.000000,107.666667,2026-01,1,Regra estoque

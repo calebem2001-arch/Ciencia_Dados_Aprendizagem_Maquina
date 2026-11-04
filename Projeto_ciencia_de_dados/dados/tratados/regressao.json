@@ -1,0 +1,9 @@
+{
+  "item": "Arroz",
+  "coeficiente": 0.07365626874169177,
+  "intercepto": 1.408264750050698,
+  "r2_teste": 0.8980713875272963,
+  "mae_teste_kg": 2.663343331435551,
+  "n_treino": 30,
+  "n_teste": 6
+}
