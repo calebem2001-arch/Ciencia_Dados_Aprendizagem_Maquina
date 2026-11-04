@@ -1,0 +1,13 @@
+nome,unidade,estoque_final,estoque_minimo,situacao
+Agasalho,unidade,38.000000,40,REPOR
+Agua,litro,0.000000,250,REPOR
+Arroz,kg,0.000000,40,REPOR
+Brinquedo,unidade,0.000000,60,REPOR
+Camiseta,unidade,0.000000,80,REPOR
+Embalagem,unidade,0.000000,600,REPOR
+Feijao,kg,0.000000,30,REPOR
+Legumes,kg,0.000000,40,REPOR
+Macarrao,kg,0.000000,25,REPOR
+Oleo,litro,0.000000,8,REPOR
+Proteina,kg,0.000000,50,REPOR
+Talher,unidade,0.000000,600,REPOR

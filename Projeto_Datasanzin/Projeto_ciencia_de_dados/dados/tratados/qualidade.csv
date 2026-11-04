@@ -1,0 +1,6 @@
+regra,removidas
+duplicata_doacao_id,1
+quantidade_nula,1
+quantidade_nao_positiva,1
+item_inexistente,1
+mes_fora_do_periodo,1
